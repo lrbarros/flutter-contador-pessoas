@@ -1,6 +1,7 @@
 # contador_pessoas
 
-Projeto de aprendizado no curso de flutter
+Projeto de aprendizado no curso de flutter 
+neste projeto foi usado flutter de versão 2.2.3
 
 ## Getting Started
 
